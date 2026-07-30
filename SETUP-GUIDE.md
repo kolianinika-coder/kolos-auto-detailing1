@@ -11,6 +11,3 @@ If the appointment schedule changes, update that link in `index.html`.
 Appointments are completed through Google Calendar. The website does not contain a separate booking request form or photo-upload control.
 
 Customers with heavily soiled vehicles are instructed to send clear interior and exterior photos by SMS to `(973) 454-1205`. The **Text Vehicle Photos** button opens the customer's SMS app with that number addressed.
-
-## 3. Review submissions
-The review form uses Netlify Forms. After deploying to Netlify, confirm that the `review` form appears in the site's **Forms** area. Reviews should continue to be checked before publication.
